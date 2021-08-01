@@ -1,4 +1,4 @@
-# Professional README Generator Starter Code
+# Professional README Generator
 
 ## Description
 A quality README is essential to the successful communication of a project. It helps users understand the intent and usage of an application as well as any installation requirements. The quality of a README often can be the difference between a project being perceived as bad or good. It allows a developer to take advantage of the opportunity to explain and showcase what an application does, explain the technologies used, and possibly explain challenges and areas for future development. A good README helps both a project and a developer stand out on Github and in the job market. This application aims to smooth the somewhat tedious task of creating a quality README by creating an interface in which the user merely has to answer questions about the project, and then a quality README file is generated for them based on their responses.
